@@ -123,4 +123,9 @@ public class Matrix
 			}
 		}
 	}
+	
+	public void matMult(Matrix m)
+	{
+		
+	}
 }
